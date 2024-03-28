@@ -6,7 +6,7 @@ module.exports = {
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
   status: 'RTXX GG',
   commandsDir: './commands',
-  language: "en",
+  language: "es",
   embedColor: "00fbff",
   errorLog: "",
 
